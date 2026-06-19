@@ -1,0 +1,15 @@
+venv/
+data/notes-large.tsv
+data/noteStatusHistory-00000.tsv
+data/bm25_index/
+data/passages/
+data/notes_filtered.parquet
+data/retrieval_results.jsonl
+results/
+data/dense_embeddings.npy
+data/faiss.index
+data/passage_ids.json
+.env
+.DS_Store
+__pycache__/
+*.pyc
